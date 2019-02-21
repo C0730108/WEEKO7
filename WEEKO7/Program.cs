@@ -28,7 +28,7 @@ class PlayWithRecursion
     public static long GetFactorial(int number)
     {
         Console.WriteLine(number);
-        if (number == 0) { return 1; }
+        if (number == 0) { return 1;   }
         return number * GetFactorial(number - 1);
     }
 }
