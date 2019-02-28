@@ -67,7 +67,7 @@ namespace C0730108Assignment1
                 {
                     string line;
 
-                    while ((line = sr.ReadLine()) != null)
+                    while ((line = sr.ReadLine()) != null)  
                     {
                         Console.WriteLine(line);
                     }
