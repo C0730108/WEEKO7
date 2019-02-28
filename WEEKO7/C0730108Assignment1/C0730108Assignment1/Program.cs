@@ -52,7 +52,7 @@ namespace C0730108Assignment1
                 TravelVillages(currentVillage.east);
 
             }
-            catch (NullReferenceException nre)
+            catch (NullReferenceException nre) 
             {
 
 
