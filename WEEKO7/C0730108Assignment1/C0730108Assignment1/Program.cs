@@ -21,7 +21,7 @@ namespace C0730108Assignment1
 
 
         static void Main()
-        {
+        { 
             new CountrySide().Run();
 
         }
