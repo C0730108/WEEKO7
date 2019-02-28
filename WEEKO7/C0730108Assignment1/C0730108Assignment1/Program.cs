@@ -12,7 +12,7 @@ namespace C0730108Assignment1
         Village Alst;
         Village Schvenig;
         Village Wessig;
-        Village Maeland;
+        Village Maeland;      
         Village Helmholtz;
         Village Badden;
         Village Uster;   
