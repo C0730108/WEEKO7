@@ -42,7 +42,7 @@ namespace C0730108Assignment1
                 if (currentVillage.isAstrildgeHere)
                 {
 
-                    Console.WriteLine("I found Dear Astrildge in {0}", currentVillage.VillageName);
+                    Console.WriteLine("I found Dear Astrildge in {0}", currentVillage.VillageName);  
                     Console.WriteLine("****Feeling Happy****");
                     Console.WriteLine("Astrildge, I walked {0} vika to find you. " +
                     "Will you marry me?", Hugi.CalculateDistanceWalked());
